@@ -1,0 +1,10 @@
+{
+  "defaultCommand": "makeswap",
+  "commands": {
+    "makeswap": {
+      "scriptType": "bash",
+      "scriptPath": "makeswap.sh",
+      "vars": {}
+    }
+  }
+}
